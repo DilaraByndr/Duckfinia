@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/map1.umap",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Visuals/back.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Visuals/back_Sprite.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/BP_GameMode.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_PawnPlayer.uasset"
+			]
+		}
+	]
+}
