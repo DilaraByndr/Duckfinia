@@ -5,15 +5,32 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/dark/Documents/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset",
-				"C:/Users/dark/Documents/GitHub/Infinia1/Infinia1/Content/__ExternalActors__/Untitled/5/8O/JPQ15MAQW331S1101S692C.uasset",
-				"C:/Users/dark/Documents/GitHub/Infinia1/Infinia1/Content/Kaz.uasset",
 				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/map1.umap",
 				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Visuals/back.uasset",
 				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Visuals/back_Sprite.uasset",
 				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset",
 				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/BP_GameMode.uasset",
-				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_PawnPlayer.uasset"
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_PawnPlayer.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/NotesBP/do.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/NotesBP/re.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/NotesBP/reSpawn.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/NotesBP/solSpawn.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/NotesBP/siSpawn.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/NotesBP/do2Spawn.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/NotesBP/laSpawn.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/NotesBP/miSpawn.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/NotesBP/doSpawn.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/NotesBP/faSpawn.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/map2.umap",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/NotesBP/mi.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/NotesBP/fa.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/BP_Character1.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Untitled.umap",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/kutu.uasset",
+				"C:/Users/atado/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Ordek.uasset",
+				"C:/Users/dark/Documents/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/dark/Documents/GitHub/Infinia1/Infinia1/Content/__ExternalActors__/Untitled/5/8O/JPQ15MAQW331S1101S692C.uasset",
+				"C:/Users/dark/Documents/GitHub/Infinia1/Infinia1/Content/Kaz.uasset"
 			]
 		}
 	]
