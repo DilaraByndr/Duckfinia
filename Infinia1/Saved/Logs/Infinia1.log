@@ -4936,3 +4936,534 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.17-10.06.02:792][383]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2023.12.17-10.06.02:803][383]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.12.17-10.06.02:803][383]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.17-10.14.30:208][701]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.12.17-10.14.30:208][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.14.30:218][701]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.12.17-10.14.30:218][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.18.25:744][548]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2023.12.17-10.18.25:950][548]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.18.25:952][548]LogAssetEditorSubsystem: Opening Asset editor for World /Game/UI/MenuLevel.MenuLevel
+[2023.12.17-10.18.25:952][548]Cmd: MAP LOAD FILE="C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/UI/MenuLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2023.12.17-10.18.25:952][548]LightingResults: New page: Lighting Build
+[2023.12.17-10.18.25:953][548]LoadErrors: New page: Loading map: MenuLevel.umap
+[2023.12.17-10.18.25:992][548]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.12.17-10.18.25:992][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.18.26:027][548]LogWorld: UWorld::CleanupWorld for map1, bSessionEnded=true, bCleanupResources=true
+[2023.12.17-10.18.26:027][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.18.26:027][548]MapCheck: New page: Map Check
+[2023.12.17-10.18.26:027][548]LightingResults: New page: Lighting Build
+[2023.12.17-10.18.26:071][548]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.17-10.18.26:076][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2023.12.17-10.18.26:081][548]LogWorld: UWorld::CleanupWorld for MenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.12.17-10.18.26:081][548]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.18.26:128][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2023.12.17-10.18.26:171][548]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2023.12.17-10.18.26:183][548]LogAudio: Display: Audio Device (ID: 1) registered with world 'MenuLevel'.
+[2023.12.17-10.18.26:183][548]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.18.26:183][548]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.17-10.18.26:185][548]LogAIModule: Creating AISystem for world MenuLevel
+[2023.12.17-10.18.26:225][548]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.12.17-10.18.26:273][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.12.17-10.18.26:281][548]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.12.17-10.18.26:281][548]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,273ms to complete.
+[2023.12.17-10.18.26:281][548]LogFileHelpers: Loading map 'MenuLevel' took 0.329
+[2023.12.17-10.18.29:621][744]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.17-10.18.29:633][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.17-10.18.29:633][744]PIE: New page: PIE session: MenuLevel (17 Ara 2023 16:18:29)
+[2023.12.17-10.18.29:634][744]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MenuLevel
+[2023.12.17-10.18.29:635][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001717s)
+[2023.12.17-10.18.29:635][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MenuLevel.MenuLevel to /Game/UI/UEDPIE_0_MenuLevel.MenuLevel (0.001865s)
+[2023.12.17-10.18.29:635][744]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.18.29:635][744]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.17-10.18.29:636][744]LogAIModule: Creating AISystem for world MenuLevel
+[2023.12.17-10.18.29:636][744]LogPlayLevel: PIE: World Init took: (0.001545s)
+[2023.12.17-10.18.29:676][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2023.12.17-10.18.29:677][744]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.12.17-10.18.29:677][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.17-10.18.29:677][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.17-10.18.29:677][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.17-10.18.29:677][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.17-10.18.29:677][744]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.17-10.18.29:677][744]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.17-10.18.29:677][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.17-10.18.29:677][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.17-10.18.29:678][744]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.17-10.18.29:678][744]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.17-10.18.29:678][744]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.17-10.18.29:681][744]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.17-10.18.29:846][744]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (Realtek(R) Audio)
+[2023.12.17-10.18.29:848][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.17-10.18.29:848][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.17-10.18.29:848][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.17-10.18.29:849][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.12.17-10.18.29:849][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.12.17-10.18.29:852][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.12.17-10.18.29:852][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.12.17-10.18.29:853][744]LogInit: FAudioDevice initialized with ID 5.
+[2023.12.17-10.18.29:853][744]LogAudio: Display: Audio Device (ID: 5) registered with world 'MenuLevel'.
+[2023.12.17-10.18.29:853][744]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2023.12.17-10.18.29:940][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.17-10.18.29:940][744]LogLoad: Game class is 'GameMode_Menu_C'
+[2023.12.17-10.18.29:941][744]LogWorld: Bringing World /Game/UI/UEDPIE_0_MenuLevel.MenuLevel up for play (max tick rate 60) at 2023.12.17-13.18.29
+[2023.12.17-10.18.29:941][744]LogWorld: Bringing up level for play took: 0.000724
+[2023.12.17-10.18.29:945][744]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.12.17-10.18.29:946][744]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.12.17-10.18.29:948][744]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.17-10.18.29:948][744]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.17-10.18.29:949][744]PIE: Server logged in
+[2023.12.17-10.18.29:951][744]PIE: Play in editor total start time 0,318 seconds.
+[2023.12.17-10.18.29:959][744]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2023.12.17-10.18.31:868][855]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.17-10.18.31:868][855]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.12.17-10.18.31:871][855]LogNet: Browse: /Game/map1
+[2023.12.17-10.18.31:871][855]LogLoad: LoadMap: /Game/map1
+[2023.12.17-10.18.31:871][855]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MenuLevel
+[2023.12.17-10.18.31:871][855]LogWorld: UWorld::CleanupWorld for MenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.12.17-10.18.31:871][855]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.18.31:944][855]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.17-10.18.31:947][855]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.12.17-10.18.31:995][855]LogAudio: Display: Audio Device (ID: 5) registered with world 'map1'.
+[2023.12.17-10.18.31:995][855]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.18.31:995][855]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.17-10.18.31:996][855]LogAIModule: Creating AISystem for world map1
+[2023.12.17-10.18.31:997][855]LogPlayLevel: PIE: World Init took: (0.001528s)
+[2023.12.17-10.18.31:997][855]LogLoad: Game class is 'BP_GameMode_C'
+[2023.12.17-10.18.32:000][855]LogWorld: Bringing World /Game/UEDPIE_0_map1.map1 up for play (max tick rate 60) at 2023.12.17-13.18.32
+[2023.12.17-10.18.32:001][855]LogWorld: Bringing up level for play took: 0.003963
+[2023.12.17-10.18.32:004][855]LogLoad: Took 0.132646 seconds to LoadMap(/Game/map1)
+[2023.12.17-10.18.39:859][317]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_0.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.18.39:859][317]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_0.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.18.40:872][376]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_1.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.18.40:872][376]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_1.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.18.41:873][436]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_2.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.18.41:873][436]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_2.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.18.42:862][495]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_3.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.18.42:862][495]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_3.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.18.43:657][540]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.17-10.18.43:657][540]LogWorld: BeginTearingDown for /Game/UEDPIE_0_map1
+[2023.12.17-10.18.43:659][540]LogSlate: Window 'Infinia1 Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.12.17-10.18.43:681][540]LogWorld: UWorld::CleanupWorld for map1, bSessionEnded=true, bCleanupResources=true
+[2023.12.17-10.18.43:682][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.18.43:689][540]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.17-10.18.43:699][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.18.43:767][540]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2023.12.17-10.18.43:767][540]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.12.17-10.18.43:771][540]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.12.17-10.18.43:789][540]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2023.12.17-10.18.43:935][541]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.12.17-10.26.41:000][133]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Ordek.Ordek
+[2023.12.17-10.26.41:000][133]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.26.41:000][133]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.17-10.26.45:632][392]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Kaz.Kaz
+[2023.12.17-10.26.45:632][392]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.26.45:632][392]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.17-10.26.49:785][629]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2023.12.17-10.26.49:786][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.26.49:786][629]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.17-10.28.23:294][143]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.28.34:086][772]BlueprintLog: New page: Compile Ordek
+[2023.12.17-10.28.34:172][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.12.17-10.28.35:320][832]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.17-10.28.35:417][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Ordek" FILE="C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/Ordek.uasset" SILENT=true
+[2023.12.17-10.28.35:431][832]LogSavePackage: Moving output files for package: /Game/Blueprints/Ordek
+[2023.12.17-10.28.35:433][832]LogSavePackage: Moving 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Saved/OrdekAB0EB42C4025C1C8E94329B46C8E1453.tmp' to 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/Ordek.uasset'
+[2023.12.17-10.28.35:446][832]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 615 ms)
+[2023.12.17-10.28.35:453][832]AssetCheck: New page: Asset Save: Ordek
+[2023.12.17-10.28.35:453][832]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Ordek.Ordek
+[2023.12.17-10.29.12:654][ 43]BlueprintLog: New page: Compile Kaz
+[2023.12.17-10.29.12:743][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2023.12.17-10.29.13:439][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.17-10.29.13:573][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Kaz" FILE="C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/Kaz.uasset" SILENT=true
+[2023.12.17-10.29.13:587][ 74]LogSavePackage: Moving output files for package: /Game/Blueprints/Kaz
+[2023.12.17-10.29.13:589][ 74]LogSavePackage: Moving 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Saved/Kaz0627DB754E5A2408F9A1A79C1C89F7EC.tmp' to 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/Kaz.uasset'
+[2023.12.17-10.29.13:611][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 171 ms (total: 786 ms)
+[2023.12.17-10.29.13:622][ 74]AssetCheck: New page: Asset Save: Kaz
+[2023.12.17-10.29.13:622][ 74]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/Kaz.Kaz
+[2023.12.17-10.32.15:632][635]BlueprintLog: New page: Compile BP_Player
+[2023.12.17-10.32.15:711][635]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.12.17-10.32.16:786][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.17-10.32.16:884][687]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2023.12.17-10.32.16:923][687]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2023.12.17-10.32.16:924][687]LogSavePackage: Moving 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Saved/BP_Player2C4B2A4C41C8A78A834900972CD30AAC.tmp' to 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset'
+[2023.12.17-10.32.16:940][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 941 ms)
+[2023.12.17-10.32.16:948][687]AssetCheck: New page: Asset Save: BP_Player
+[2023.12.17-10.32.16:948][687]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2023.12.17-10.36.48:336][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.12.17-10.36.48:337][383]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/UI/MenuLevel' took 0.034
+[2023.12.17-10.36.48:338][383]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Player] ([2] browsable assets)...
+[2023.12.17-10.36.48:338][383]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Player]
+[2023.12.17-10.36.48:338][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Saved/Autosaves/Game/Blueprints/BP_Player_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2023.12.17-10.36.48:373][383]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Player_Auto1
+[2023.12.17-10.36.48:373][383]LogSavePackage: Moving 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Saved/BP_Player_Auto13AE336614F916A94E63ED3BB88FF7399.tmp' to 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Saved/Autosaves/Game/Blueprints/BP_Player_Auto1.uasset'
+[2023.12.17-10.36.48:375][383]LogFileHelpers: Auto-saving content packages took 0.038
+[2023.12.17-10.39.26:394][421]BlueprintLog: New page: Compile BP_Player
+[2023.12.17-10.39.26:469][421]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.12.17-10.39.27:430][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.17-10.39.27:508][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2023.12.17-10.39.27:546][465]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2023.12.17-10.39.27:547][465]LogSavePackage: Moving 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Saved/BP_Player0931747B4215C991E212BF941A56407E.tmp' to 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset'
+[2023.12.17-10.39.27:563][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 1.07 sec)
+[2023.12.17-10.39.27:575][465]AssetCheck: New page: Asset Save: BP_Player
+[2023.12.17-10.39.27:575][465]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2023.12.17-10.39.30:707][649]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.17-10.39.30:716][649]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.17-10.39.30:716][649]PIE: New page: PIE session: MenuLevel (17 Ara 2023 16:39:30)
+[2023.12.17-10.39.30:716][649]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MenuLevel
+[2023.12.17-10.39.30:716][649]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001140s)
+[2023.12.17-10.39.30:716][649]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MenuLevel.MenuLevel to /Game/UI/UEDPIE_0_MenuLevel.MenuLevel (0.001183s)
+[2023.12.17-10.39.30:716][649]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.39.30:717][649]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.17-10.39.30:717][649]LogAIModule: Creating AISystem for world MenuLevel
+[2023.12.17-10.39.30:718][649]LogPlayLevel: PIE: World Init took: (0.001125s)
+[2023.12.17-10.39.30:751][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2023.12.17-10.39.30:756][649]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.12.17-10.39.30:756][649]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.17-10.39.30:756][649]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.17-10.39.30:756][649]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.17-10.39.30:756][649]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.17-10.39.30:756][649]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.17-10.39.30:756][649]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.17-10.39.30:756][649]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.17-10.39.30:756][649]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.17-10.39.30:757][649]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.17-10.39.30:757][649]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.17-10.39.30:757][649]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.17-10.39.30:759][649]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.17-10.39.30:839][649]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (Realtek(R) Audio)
+[2023.12.17-10.39.30:839][649]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.17-10.39.30:839][649]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.17-10.39.30:839][649]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.17-10.39.30:840][649]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.12.17-10.39.30:840][649]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.12.17-10.39.30:842][649]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.12.17-10.39.30:842][649]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.12.17-10.39.30:842][649]LogInit: FAudioDevice initialized with ID 6.
+[2023.12.17-10.39.30:842][649]LogAudio: Display: Audio Device (ID: 6) registered with world 'MenuLevel'.
+[2023.12.17-10.39.30:842][649]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2023.12.17-10.39.30:845][649]LogLoad: Game class is 'GameMode_Menu_C'
+[2023.12.17-10.39.30:846][649]LogWorld: Bringing World /Game/UI/UEDPIE_0_MenuLevel.MenuLevel up for play (max tick rate 60) at 2023.12.17-13.39.30
+[2023.12.17-10.39.30:846][649]LogWorld: Bringing up level for play took: 0.000406
+[2023.12.17-10.39.30:848][649]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2023.12.17-10.39.30:850][649]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.17-10.39.30:850][649]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.17-10.39.30:850][649]PIE: Server logged in
+[2023.12.17-10.39.30:851][649]PIE: Play in editor total start time 0,136 seconds.
+[2023.12.17-10.39.32:171][728]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.17-10.39.32:171][728]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.12.17-10.39.32:174][728]LogNet: Browse: /Game/map1
+[2023.12.17-10.39.32:174][728]LogLoad: LoadMap: /Game/map1
+[2023.12.17-10.39.32:174][728]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MenuLevel
+[2023.12.17-10.39.32:174][728]LogWorld: UWorld::CleanupWorld for MenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.12.17-10.39.32:174][728]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.39.32:202][728]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.17-10.39.32:204][728]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.12.17-10.39.32:230][728]LogAudio: Display: Audio Device (ID: 6) registered with world 'map1'.
+[2023.12.17-10.39.32:230][728]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.39.32:230][728]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.17-10.39.32:231][728]LogAIModule: Creating AISystem for world map1
+[2023.12.17-10.39.32:231][728]LogPlayLevel: PIE: World Init took: (0.001025s)
+[2023.12.17-10.39.32:231][728]LogLoad: Game class is 'BP_GameMode_C'
+[2023.12.17-10.39.32:233][728]LogWorld: Bringing World /Game/UEDPIE_0_map1.map1 up for play (max tick rate 60) at 2023.12.17-13.39.32
+[2023.12.17-10.39.32:234][728]LogWorld: Bringing up level for play took: 0.002190
+[2023.12.17-10.39.32:236][728]LogLoad: Took 0.062851 seconds to LoadMap(/Game/map1)
+[2023.12.17-10.39.40:167][204]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_0.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.40:167][204]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_0.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.41:167][264]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_1.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.41:167][264]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_1.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.42:168][324]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_2.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.42:168][324]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_2.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.43:167][384]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_3.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.43:167][384]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_3.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.44:167][444]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_4.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.44:167][444]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_4.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.45:167][504]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_5.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.45:167][504]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_5.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.45:683][535]LogBlueprintUserMessages: [Ordek_C_3] 5.0
+[2023.12.17-10.39.46:167][564]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_6.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.46:167][564]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_6.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.47:166][624]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_7.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.47:166][624]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_7.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.48:167][684]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_8.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.48:167][684]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_8.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.49:167][744]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_9.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.49:167][744]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_9.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.50:167][804]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_10.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.50:167][804]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_10.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.50:965][852]LogBlueprintUserMessages: [Kaz_C_1] 5.0
+[2023.12.17-10.39.51:167][864]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_11.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.51:167][864]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_11.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.52:166][924]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_12.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.52:166][924]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_12.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.53:167][984]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_13.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.53:167][984]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_13.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.53:716][ 17]LogBlueprintUserMessages: [Kaz_C_1] 10.0
+[2023.12.17-10.39.53:733][ 18]LogBlueprintUserMessages: [Kaz_C_1] 15.0
+[2023.12.17-10.39.54:167][ 44]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_14.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.54:167][ 44]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_14.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.55:167][104]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_15.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.55:167][104]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_15.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.55:717][137]LogBlueprintUserMessages: [Kaz_C_1] 20.0
+[2023.12.17-10.39.55:733][138]LogBlueprintUserMessages: [Kaz_C_1] 25.0
+[2023.12.17-10.39.56:168][164]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_16.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.56:168][164]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_16.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.57:168][224]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_17.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.57:168][224]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_17.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.57:717][257]LogBlueprintUserMessages: [Kaz_C_1] 30.0
+[2023.12.17-10.39.57:733][258]LogBlueprintUserMessages: [Kaz_C_1] 35.0
+[2023.12.17-10.39.58:167][284]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_18.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.58:167][284]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_18.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.59:167][344]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_19.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.39.59:167][344]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_19.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.40.00:168][404]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_20.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.40.00:168][404]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_20.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.40.00:684][435]LogBlueprintUserMessages: [Ordek_C_3] 10.0
+[2023.12.17-10.40.02:462][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.17-10.40.02:462][525]LogWorld: BeginTearingDown for /Game/UEDPIE_0_map1
+[2023.12.17-10.40.02:462][525]LogWorld: UWorld::CleanupWorld for map1, bSessionEnded=true, bCleanupResources=true
+[2023.12.17-10.40.02:463][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.40.02:472][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.17-10.40.02:483][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.40.02:555][525]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.17-10.40.02:555][525]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2023.12.17-10.40.02:555][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.12.17-10.40.02:560][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.12.17-10.40.02:574][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.17-10.40.02:584][525]LogUObjectHash: Compacting FUObjectHashTables data took   4.66ms
+[2023.12.17-10.40.02:879][526]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2023.12.17-10.41.50:540][633]BlueprintLog: New page: Compile BP_Player
+[2023.12.17-10.41.50:609][633]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.12.17-10.41.51:433][670]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.17-10.41.51:526][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2023.12.17-10.41.51:564][670]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2023.12.17-10.41.51:565][670]LogSavePackage: Moving 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Saved/BP_Player7D22E07E480734676860C98EC48D1135.tmp' to 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset'
+[2023.12.17-10.41.51:579][670]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 1.22 sec)
+[2023.12.17-10.41.51:586][670]AssetCheck: New page: Asset Save: BP_Player
+[2023.12.17-10.41.51:586][670]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2023.12.17-10.41.53:850][805]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.17-10.41.53:863][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.17-10.41.53:863][805]PIE: New page: PIE session: MenuLevel (17 Ara 2023 16:41:53)
+[2023.12.17-10.41.53:863][805]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MenuLevel
+[2023.12.17-10.41.53:866][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002190s)
+[2023.12.17-10.41.53:866][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MenuLevel.MenuLevel to /Game/UI/UEDPIE_0_MenuLevel.MenuLevel (0.002258s)
+[2023.12.17-10.41.53:866][805]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.41.53:866][805]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.17-10.41.53:867][805]LogAIModule: Creating AISystem for world MenuLevel
+[2023.12.17-10.41.53:867][805]LogPlayLevel: PIE: World Init took: (0.001378s)
+[2023.12.17-10.41.53:914][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2023.12.17-10.41.53:918][805]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.12.17-10.41.53:918][805]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.17-10.41.53:918][805]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.17-10.41.53:920][805]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.17-10.41.53:920][805]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.17-10.41.53:920][805]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.17-10.41.53:920][805]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.17-10.41.53:920][805]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.17-10.41.53:920][805]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.17-10.41.53:920][805]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.17-10.41.53:920][805]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.17-10.41.53:920][805]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.17-10.41.53:923][805]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.17-10.41.54:015][805]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (Realtek(R) Audio)
+[2023.12.17-10.41.54:015][805]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.17-10.41.54:015][805]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.17-10.41.54:015][805]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.17-10.41.54:015][805]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.12.17-10.41.54:015][805]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.12.17-10.41.54:018][805]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.12.17-10.41.54:018][805]LogInit: FAudioDevice initialized with ID 7.
+[2023.12.17-10.41.54:018][805]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.12.17-10.41.54:018][805]LogAudio: Display: Audio Device (ID: 7) registered with world 'MenuLevel'.
+[2023.12.17-10.41.54:018][805]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.12.17-10.41.54:021][805]LogLoad: Game class is 'GameMode_Menu_C'
+[2023.12.17-10.41.54:022][805]LogWorld: Bringing World /Game/UI/UEDPIE_0_MenuLevel.MenuLevel up for play (max tick rate 60) at 2023.12.17-13.41.54
+[2023.12.17-10.41.54:022][805]LogWorld: Bringing up level for play took: 0.000424
+[2023.12.17-10.41.54:025][805]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.12.17-10.41.54:026][805]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.17-10.41.54:026][805]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.17-10.41.54:026][805]PIE: Server logged in
+[2023.12.17-10.41.54:027][805]PIE: Play in editor total start time 0,165 seconds.
+[2023.12.17-10.41.55:281][880]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.17-10.41.55:281][880]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.12.17-10.41.55:283][880]LogNet: Browse: /Game/map1
+[2023.12.17-10.41.55:283][880]LogLoad: LoadMap: /Game/map1
+[2023.12.17-10.41.55:283][880]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MenuLevel
+[2023.12.17-10.41.55:284][880]LogWorld: UWorld::CleanupWorld for MenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.12.17-10.41.55:284][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.41.55:313][880]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.17-10.41.55:316][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.12.17-10.41.55:342][880]LogAudio: Display: Audio Device (ID: 7) registered with world 'map1'.
+[2023.12.17-10.41.55:342][880]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.41.55:342][880]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.17-10.41.55:342][880]LogAIModule: Creating AISystem for world map1
+[2023.12.17-10.41.55:343][880]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2023.12.17-10.41.55:343][880]LogLoad: Game class is 'BP_GameMode_C'
+[2023.12.17-10.41.55:345][880]LogWorld: Bringing World /Game/UEDPIE_0_map1.map1 up for play (max tick rate 60) at 2023.12.17-13.41.55
+[2023.12.17-10.41.55:345][880]LogWorld: Bringing up level for play took: 0.002167
+[2023.12.17-10.41.55:347][880]LogLoad: Took 0.063710 seconds to LoadMap(/Game/map1)
+[2023.12.17-10.42.03:277][356]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_0.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.03:277][356]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_0.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.04:316][416]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_1.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.04:316][416]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_1.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.05:242][434]LogBlueprintUserMessages: [Ordek_C_3] 5.0
+[2023.12.17-10.42.05:279][436]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_2.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.05:279][436]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_2.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.06:281][496]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_3.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.06:281][496]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_3.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.07:282][556]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_4.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.07:282][556]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_4.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.08:281][616]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_5.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.08:281][616]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_5.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.09:282][676]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_6.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.09:282][676]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_6.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.09:882][712]LogBlueprintUserMessages: [Ordek_C_3] 10.0
+[2023.12.17-10.42.10:295][734]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_7.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.10:295][734]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_7.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.11:282][793]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_8.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.11:282][793]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_8.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.12:284][843]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_9.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.12:284][843]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_9.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.13:283][903]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_10.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.13:284][903]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_10.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.14:284][963]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_11.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.14:284][963]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_11.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.15:333][ 23]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_12.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.15:333][ 23]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_12.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.16:280][ 80]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_13.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.16:280][ 80]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_13.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.16:841][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.17-10.42.16:841][112]LogWorld: BeginTearingDown for /Game/UEDPIE_0_map1
+[2023.12.17-10.42.16:842][112]LogWorld: UWorld::CleanupWorld for map1, bSessionEnded=true, bCleanupResources=true
+[2023.12.17-10.42.16:842][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.42.16:848][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.17-10.42.16:857][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.42.16:905][112]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.17-10.42.16:905][112]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.12.17-10.42.16:905][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.17-10.42.16:908][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.12.17-10.42.16:918][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.17-10.42.16:922][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.12.17-10.42.17:058][113]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.12.17-10.42.44:701][748]BlueprintLog: New page: Compile BP_Player
+[2023.12.17-10.42.44:817][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2023.12.17-10.42.45:573][770]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.17-10.42.45:700][770]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2023.12.17-10.42.45:763][770]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2023.12.17-10.42.45:765][770]LogSavePackage: Moving 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Saved/BP_Player0DB5090B4686EF28CF1F148ACFF54DBB.tmp' to 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset'
+[2023.12.17-10.42.45:785][770]LogFileHelpers: InternalPromptForCheckoutAndSave took 212 ms (total: 1.43 sec)
+[2023.12.17-10.42.45:794][770]AssetCheck: New page: Asset Save: BP_Player
+[2023.12.17-10.42.45:794][770]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
+[2023.12.17-10.42.47:435][865]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.12.17-10.42.47:450][865]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.12.17-10.42.47:450][865]PIE: New page: PIE session: MenuLevel (17 Ara 2023 16:42:47)
+[2023.12.17-10.42.47:451][865]LogPlayLevel: Creating play world package: /Game/UI/UEDPIE_0_MenuLevel
+[2023.12.17-10.42.47:453][865]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002214s)
+[2023.12.17-10.42.47:453][865]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/UI/MenuLevel.MenuLevel to /Game/UI/UEDPIE_0_MenuLevel.MenuLevel (0.002279s)
+[2023.12.17-10.42.47:453][865]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.42.47:453][865]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.17-10.42.47:454][865]LogAIModule: Creating AISystem for world MenuLevel
+[2023.12.17-10.42.47:454][865]LogPlayLevel: PIE: World Init took: (0.001477s)
+[2023.12.17-10.42.47:511][865]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.12.17-10.42.47:518][865]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.12.17-10.42.47:518][865]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.12.17-10.42.47:518][865]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.12.17-10.42.47:518][865]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.12.17-10.42.47:518][865]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.12.17-10.42.47:518][865]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.12.17-10.42.47:518][865]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.12.17-10.42.47:518][865]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.12.17-10.42.47:518][865]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.12.17-10.42.47:519][865]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.12.17-10.42.47:519][865]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.12.17-10.42.47:519][865]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.12.17-10.42.47:523][865]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.12.17-10.42.47:668][865]LogAudioMixer: Display: Using Audio Hardware Device Hoparlör (Realtek(R) Audio)
+[2023.12.17-10.42.47:669][865]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.12.17-10.42.47:669][865]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.12.17-10.42.47:669][865]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.12.17-10.42.47:671][865]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.12.17-10.42.47:671][865]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.12.17-10.42.47:675][865]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.12.17-10.42.47:675][865]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.12.17-10.42.47:675][865]LogInit: FAudioDevice initialized with ID 8.
+[2023.12.17-10.42.47:675][865]LogAudio: Display: Audio Device (ID: 8) registered with world 'MenuLevel'.
+[2023.12.17-10.42.47:675][865]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.17-10.42.47:680][865]LogLoad: Game class is 'GameMode_Menu_C'
+[2023.12.17-10.42.47:680][865]LogWorld: Bringing World /Game/UI/UEDPIE_0_MenuLevel.MenuLevel up for play (max tick rate 60) at 2023.12.17-13.42.47
+[2023.12.17-10.42.47:681][865]LogWorld: Bringing up level for play took: 0.000694
+[2023.12.17-10.42.47:685][865]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.12.17-10.42.47:688][865]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.12.17-10.42.47:688][865]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.12.17-10.42.47:688][865]PIE: Server logged in
+[2023.12.17-10.42.47:690][865]PIE: Play in editor total start time 0,239 seconds.
+[2023.12.17-10.42.48:760][927]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.12.17-10.42.48:761][927]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2023.12.17-10.42.48:764][927]LogNet: Browse: /Game/map1
+[2023.12.17-10.42.48:764][927]LogLoad: LoadMap: /Game/map1
+[2023.12.17-10.42.48:764][927]LogWorld: BeginTearingDown for /Game/UI/UEDPIE_0_MenuLevel
+[2023.12.17-10.42.48:765][927]LogWorld: UWorld::CleanupWorld for MenuLevel, bSessionEnded=true, bCleanupResources=true
+[2023.12.17-10.42.48:765][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.42.48:825][927]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.17-10.42.48:831][927]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.12.17-10.42.48:884][927]LogAudio: Display: Audio Device (ID: 8) registered with world 'map1'.
+[2023.12.17-10.42.48:885][927]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.17-10.42.48:885][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.12.17-10.42.48:886][927]LogAIModule: Creating AISystem for world map1
+[2023.12.17-10.42.48:886][927]LogPlayLevel: PIE: World Init took: (0.001848s)
+[2023.12.17-10.42.48:886][927]LogLoad: Game class is 'BP_GameMode_C'
+[2023.12.17-10.42.48:891][927]LogWorld: Bringing World /Game/UEDPIE_0_map1.map1 up for play (max tick rate 60) at 2023.12.17-13.42.48
+[2023.12.17-10.42.48:891][927]LogWorld: Bringing up level for play took: 0.004936
+[2023.12.17-10.42.48:895][927]LogLoad: Took 0.131328 seconds to LoadMap(/Game/map1)
+[2023.12.17-10.42.56:751][392]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_0.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.56:751][392]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_0.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.57:751][452]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_1.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.57:751][452]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_1.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.58:267][483]LogBlueprintUserMessages: [Ordek_C_3] 5.0
+[2023.12.17-10.42.58:751][512]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_2.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.58:751][512]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_2.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.59:752][572]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_3.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.42.59:752][572]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_3.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.00:761][632]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_4.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.00:761][632]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_4.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.01:752][691]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_5.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.01:752][691]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_5.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.02:306][724]LogBlueprintUserMessages: [Kaz_C_1] 5.0
+[2023.12.17-10.43.02:324][725]LogBlueprintUserMessages: [Kaz_C_1] 10.0
+[2023.12.17-10.43.02:759][751]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_6.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.02:760][751]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_6.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.03:756][810]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_7.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.03:756][810]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_7.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.04:308][843]LogBlueprintUserMessages: [Kaz_C_1] 15.0
+[2023.12.17-10.43.04:324][844]LogBlueprintUserMessages: [Kaz_C_1] 20.0
+[2023.12.17-10.43.04:794][856]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_8.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.04:794][856]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_8.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.05:840][867]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_9.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.05:840][867]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_9.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.06:765][907]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_10.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.06:765][907]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_10.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.07:096][925]LogBlueprintUserMessages: [Ordek_C_3] 10.0
+[2023.12.17-10.43.07:485][946]LogBlueprintUserMessages: [Kaz_C_1] 25.0
+[2023.12.17-10.43.07:503][947]LogBlueprintUserMessages: [Kaz_C_1] 30.0
+[2023.12.17-10.43.07:760][961]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_11.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.07:760][961]PIE: Warning: Invalid Simulate Options: Body (YEMEK_C_11.Sphere Sphere) is set to simulate physics but Collision Enabled is incompatible
+[2023.12.17-10.43.07:882][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.17-10.43.07:882][966]LogWorld: BeginTearingDown for /Game/UEDPIE_0_map1
+[2023.12.17-10.43.07:882][966]LogWorld: UWorld::CleanupWorld for map1, bSessionEnded=true, bCleanupResources=true
+[2023.12.17-10.43.07:883][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.43.07:894][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.12.17-10.43.07:911][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.12.17-10.43.07:973][966]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.12.17-10.43.07:974][966]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.12.17-10.43.07:974][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.17-10.43.07:977][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.12.17-10.43.07:988][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.12.17-10.43.07:994][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2023.12.17-10.43.08:147][967]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.12.17-10.43.42:886][  2]BlueprintLog: New page: Compile BP_Player
+[2023.12.17-10.43.42:980][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2023.12.17-10.43.44:021][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.17-10.43.44:125][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Player" FILE="C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset" SILENT=true
+[2023.12.17-10.43.44:171][ 46]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Player
+[2023.12.17-10.43.44:173][ 46]LogSavePackage: Moving 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Saved/BP_Player6C799F514F68BFAB0180059EFB28B09C.tmp' to 'C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset'
+[2023.12.17-10.43.44:188][ 46]LogFileHelpers: InternalPromptForCheckoutAndSave took 166 ms (total: 1.60 sec)
+[2023.12.17-10.43.44:196][ 46]AssetCheck: New page: Asset Save: BP_Player
+[2023.12.17-10.43.44:196][ 46]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Player.BP_Player
