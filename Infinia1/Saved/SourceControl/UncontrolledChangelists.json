@@ -5,12 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/GitHub/Infinia1/Infinia1/Content/map1.umap",
-				"C:/GitHub/Infinia1/Infinia1/Content/Blueprints/Ordek.uasset",
-				"C:/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset",
 				"C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/map1.umap",
 				"C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/UI/Menu.uasset",
 				"C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/UI/MenuLevel.umap",
+				"C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Blueprints/Ordek.uasset",
+				"C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/UI/GameOver.uasset",
+				"C:/GitHub/Infinia1/Infinia1/Content/map1.umap",
+				"C:/GitHub/Infinia1/Infinia1/Content/Blueprints/Ordek.uasset",
+				"C:/GitHub/Infinia1/Infinia1/Content/Blueprints/BP_Player.uasset",
 				"C:/Users/pc/OneDrive/Belgeler/GitHub/Infinia1/Infinia1/Content/Maps/map1.umap"
 			]
 		}
